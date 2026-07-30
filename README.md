@@ -56,7 +56,7 @@ SR/
 ## Cài đặt
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jetson-inspector.git
+git clone https://github.com/nhat5320000/KeoSR.git
 cd jetson-inspector
 pip install pillow numpy
 cp -r /path/to/MVSDK ./MVSDK
